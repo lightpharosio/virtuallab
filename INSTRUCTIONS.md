@@ -10,7 +10,7 @@
 # Instructions
 
 * PULL du repository sur Github de ce répertoire
-* Créer une machien virtuelle Linux Ubuntu (2vCPU, 4GB RAM, 30GB HDD) sous la distribution Ubuntu version 22.04LTS
+* Créer une machien virtuelle Linux Ubuntu (1vCPU, 512MB RAM, 30GB HDD) sous la distribution Ubuntu version 22.04LTS
 * Rajouter un Disque Dure de 10GB ou sera stocké la Base de DOnnées MySQL
 * Installer wordpress
 * Accéder à wordpress depuis le navigateur (chrome, firefox) de la machien hote.
