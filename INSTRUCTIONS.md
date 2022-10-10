@@ -1,27 +1,8 @@
-# Objectif
+# Objectif 
 
+BRAVO TU AS FAIS TON PREMIER PULL.
 
-* Apprendre la virtualisation des serveurs et son concept
-* Apprendre à créer une machine virtuelle
-* Apprendre à installer un serveur sous Linux
-* Apprendre à installer une application "wordpress" (sans docker)
+Bienvenue a toi cher Padawan! Ton objectif sera de créer une solution dautomatisation de serveur web à la demande pour les professionels de laconnecteam.
 
+Ce service sera disponnible à travers un portail à la cible mais dns un premier temps pour l'administrateur (moi). Ce service va me permettre de gagner 1 journéee de travail à chaque création de site. Et vraiment c'est pas du luxe.
 
-# Instructions
-
-* PULL du repository sur Github de ce répertoire
-* Créer une machien virtuelle Linux Ubuntu (1vCPU, 512MB RAM, 30GB HDD) sous la distribution Ubuntu version 22.04LTS
-* Rajouter un Disque Dure de 10GB ou sera stocké la Base de DOnnées MySQL
-* Installer wordpress
-* Accéder à wordpress depuis le navigateur (chrome, firefox) de la machien hote.
-
-
-# Livrable 
-
-* Ecrire un markdown de comprenhesion sur l'installation de la marchine virtuelle.
-* Définir un schéma d'implémentation.
-
-
-Bon courage - à l'année prochaine.
-
-Lundi ca soit fait.
