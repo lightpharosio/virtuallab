@@ -1,10 +1,15 @@
-Presentation de l'association
+# Presentation de l'association
 La connecteam --l'association des commerçants et des entreprises
-L'association à Beauzelle à été créer afin de dynamiser la ville et la rendre économiquement plus attractive.
-Leur ojectif  est de renforcer l'entraide entre entrepreneurs et surtout valoriser ces entreprises au coeur de  la ville et de la métropole.
+L'association à Beauzelle à été créer afin de dynamiser la ville et la rendre économiquement plus attractive.\
+Leur ojectif  est de renforcer l'entraide entre entrepreneurs et surtout valoriser ces entreprises au coeur de  la ville et de la métropole. Pour cela, ça doit passer par le dévellopement d'évènements et de solutions digitales.\
+ Ces moyens permettront de développer les affaires des entreprises locales, et aussi, la collaboration inter entreprises-citoyens.
+En moins de 6 mois de création, l'association a réussi à développer un tissu d'entrepreneurs de tout horizon tels que "Citoyen-Business", "Digital", "Evenementiel", etc...\
+La connecteam contient près de 40 entreprises, 70 emplois couverts, 4 projets en cours et 5 secteurs d'activité.
 
 
-Presentation de mes objectifs
+## Presentation de mes objectifs
 
-Lors de ce satge je souhaite réussir à apprendre tout le nécessaire sur le domaine dans lequel je travail actuellement
-Je souhaite également réussir à mémorisé tout ce que je fais et à suffisement l'apprendre pour pouvoir le reproduire en dehors du stage, je ne veux pas que ce soit seulement pour le stage mais que cela me servent égalment dans mon avenir 
+Lors de ce satge je souhaite réussir à apprendre tout le nécessaire sur le domaine dans lequel je travail actuellement.\
+Je souhaite également réussir à mémorisé tout ce que je fais et à suffisement l'apprendre pour pouvoir le reproduire en dehors du stage, je ne veux pas que ce soit seulement pour le stage mais que cela me servent égalment dans mon avenir.
+
+
