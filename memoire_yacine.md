@@ -12,4 +12,10 @@ La connecteam contient près de 40 entreprises, 70 emplois couverts, 4 projets e
 Lors de ce satge je souhaite réussir à apprendre tout le nécessaire sur le domaine dans lequel je travail actuellement.\
 Je souhaite également réussir à mémorisé tout ce que je fais et à suffisement l'apprendre pour pouvoir le reproduire en dehors du stage, je ne veux pas que ce soit seulement pour le stage mais que cela me servent égalment dans mon avenir.
 
+## Presentation des differentes taches
+
+Lors de la premiere semaines, nous avons pris connaissances de la tache que nous devont accomplir, celle de d'automatiser une machine virtuelle. Nous avons appris à créer une machine virtuelle Linux, nous l'avons fait mais avec quelques difficultés, tels que certains problemes de virtualisation. Nous avons commencé à faire les "partitions fixe swap" et nous avons également commencé à faire un travail sur un sit "GitHub" et un travail sur "Vscode".
+
+Lors de la deuxième semaine, nous nous sommes focalisé sur "Vscode", qui nous permet également de faire ce mémoire.
+
 
