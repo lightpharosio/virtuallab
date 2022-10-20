@@ -16,6 +16,7 @@ Je souhaite également réussir à mémorisé tout ce que je fais et à suffisem
 
 Lors de la premiere semaines, nous avons pris connaissances de la tache que nous devont accomplir, celle de d'automatiser une machine virtuelle. Nous avons appris à créer une machine virtuelle Linux, nous l'avons fait mais avec quelques difficultés, tels que certains problemes de virtualisation. Nous avons commencé à faire les "partitions fixe swap" et nous avons également commencé à faire un travail sur un sit "GitHub" et un travail sur "Vscode".
 
-Lors de la deuxième semaine, nous nous sommes focalisé sur "Vscode", qui nous permet également de faire ce mémoire.
+Lors de la deuxième semaine, nous avons commencé par travailler sur vscode en début de semaine puis nous avons repris les instructions qu'il y avait à faire. Pour vscode nous avons appris un nouveau logiciel, "drawio", qui permet également de faire un compte-rendu avec differces formes et images.Pour les instructions, nous en sommes à un moment où l'objectif de cette étape est de se connecter en console ssh depuis le terminal vscode à la machine virtuelle. suite..
+
 
 
