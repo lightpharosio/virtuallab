@@ -13,11 +13,11 @@
 
 ### La capture 7 représente : 
 sudo apt update  
-sudo apt install apache2 \
-                 ghostscript \
-                 libapache2-mod-php \
-                 mysql-server \
-                 php \
+sudo apt install apache2 \\
+                 ghostscript \\
+                 libapache2-mod-php \\
+                 mysql-server \\
+                 php \\
                  php-bcmath \
                  php-curl \
                  php-imagick \
