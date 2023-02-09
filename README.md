@@ -1,11 +1,14 @@
 ### Les captures 1 à 4 représentent : 
--
--
--
--
+
+-Création d'une Machine virtuelle
+-Création d'une machine virtuelle Linux de la Distribution Ubuntu 22.04 server 64 (1vCPU, 1GBRAM) -Création d'une machine virtuelle avec un disque fixe de 30GB
+-Création d'une machine virtuelle Linux de la Distribution Ubuntu 22.04 server 64 (1vCPU, 1GBRAM) -Création d'une machine virtuelle avec un disque dynamique 
+
 ### Les capture 5 et 6 représentent : 
--
--
+
+-Ouverture de la console virtualbox.
+-Récupération de l'addresse IP de la machine allouée par virtualBox à la VM (Virtual Machine) avec la commande 'ifconfig'
+
 ### La capture 7 représente : 
 sudo apt update
 sudo apt install apache2 \
