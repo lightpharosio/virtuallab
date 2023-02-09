@@ -12,7 +12,7 @@
 - Récupération de l'addresse IP de la machine allouée par virtualBox à la VM (Virtual Machine) avec la commande 'ifconfig'
 
 ### La capture 7 représente : 
-sudo apt update
+sudo apt update  
 sudo apt install apache2 \
                  ghostscript \
                  libapache2-mod-php \
