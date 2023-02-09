@@ -40,3 +40,12 @@ Les commandes :
 - La commande 'curl https://wordpress.org/latest.tar.gz | sudo -u www-data tar zx -C /srv/www' 
 
 - Consiste à la décompression du fichier .tar dans le répertoire /srv/www.
+
+### Les captures 12 à 15 représentent :
+-  La création d'un site Apache pour WordPress.
+- J'ai eu un problème de création du site car il ne trouvait pas l'existence du fichier alors j'ai ouvert un éditeur de texte en console avec la commande 'sudo nano /etc/apache2/sites-available/wordpress.conf' pour créer le fichier wordpress.conf
+- L'activation de la réécriture d'URL avec 'sudo a2enmod rewrite'
+- La désactivation du site "It Works" par défaut avec :'sudo a2dissite 000-default'
+
+### La capture 16 représente :
+-  Création d'une base de données MySQL.
